@@ -33,6 +33,7 @@ namespace WindowsFormsApp1
             this.label3 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.вГлавноеМенюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.подсказкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -61,7 +62,8 @@ namespace WindowsFormsApp1
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.вГлавноеМенюToolStripMenuItem});
+            this.вГлавноеМенюToolStripMenuItem,
+            this.подсказкаToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1363, 28);
@@ -74,6 +76,13 @@ namespace WindowsFormsApp1
             this.вГлавноеМенюToolStripMenuItem.Size = new System.Drawing.Size(136, 24);
             this.вГлавноеМенюToolStripMenuItem.Text = "В главное меню";
             this.вГлавноеМенюToolStripMenuItem.Click += new System.EventHandler(this.вГлавноеМенюToolStripMenuItem_Click);
+            // 
+            // подсказкаToolStripMenuItem
+            // 
+            this.подсказкаToolStripMenuItem.Name = "подсказкаToolStripMenuItem";
+            this.подсказкаToolStripMenuItem.Size = new System.Drawing.Size(95, 24);
+            this.подсказкаToolStripMenuItem.Text = "Подсказка";
+            this.подсказкаToolStripMenuItem.Click += new System.EventHandler(this.подсказкаToolStripMenuItem_Click);
             // 
             // Курсы
             // 
@@ -100,5 +109,6 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem вГлавноеМенюToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem подсказкаToolStripMenuItem;
     }
 }

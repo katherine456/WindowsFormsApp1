@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System;
 using System.IO;
 using System.Net;
 using HtmlAgilityPack;
@@ -156,6 +155,11 @@ namespace WindowsFormsApp1
 			newForm.ShowDialog();
 			Show();
 			this.Close();
+		}
+
+        private void подсказкаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+			MessageBox.Show("Представлены курсы с сайтов 'Нетология' и 'Открытое образование'", "Подсказка!", MessageBoxButtons.OK);
 		}
     }
 }
