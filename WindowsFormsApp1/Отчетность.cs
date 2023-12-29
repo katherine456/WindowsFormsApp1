@@ -280,7 +280,7 @@ namespace WindowsFormsApp1
             // Производим объединение
             worksheet.Cells[1, 4].Range("A2", "D2").Font.Bold = true;
             worksheet.Cells[1, 4].Range("A2", "D2").Font.Size = 20;
-            worksheet.Cells[2, 4] = @"Сводная ведомость";
+            worksheet.Cells[2, 4] = "Сводная ведомость";
             _excelCells1.Merge();
             worksheet.get_Range("A2", "D2").EntireRow.AutoFit();
 

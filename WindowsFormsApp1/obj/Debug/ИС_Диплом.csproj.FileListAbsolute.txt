@@ -35,3 +35,40 @@ C:\Users\Admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgility
 C:\Users\Admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
 C:\Users\Admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
 C:\Users\Admin\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ИС расчета уровня компетенций студентов и их востребованности на рынке труда.exe.config
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ИС расчета уровня компетенций студентов и их востребованности на рынке труда.exe
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ИС расчета уровня компетенций студентов и их востребованности на рынке труда.pdb
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Вход_в_систему.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Главное_меню_администратора.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Главное_меню_преподавателя.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Главное_меню_студента.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Главное_меню_учебного_отдела_не_эксперта.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Главное_меню_учебного_отдела_эксперта.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Добавление_учебных_материалов.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Матрица_парных_сравнений.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Обновление_учебного_материала.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ознакомление_эксперта_с_данными.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Окно_редактирования_баллов_преподавателя.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Отчетность.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Проверка_соответствия_студента_требованиям_вакансии.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Регистрация_студента.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Регистрация_пользователей.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Соответствие_студента_выбранной_вакансии.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Список_компетенций_по_вакансии.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Список_компетенций_по_дисциплинам.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Справочники.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Удаление_учебного_материала.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Учебные_материалы_по_компетенциям.resources
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС_Диплом.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС расчета уровня компетенций студентов и их востребованности на рынке труда.exe
+C:\Users\Admin\OneDrive\Документы\kyrsovaya\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ИС расчета уровня компетенций студентов и их востребованности на рынке труда.pdb
